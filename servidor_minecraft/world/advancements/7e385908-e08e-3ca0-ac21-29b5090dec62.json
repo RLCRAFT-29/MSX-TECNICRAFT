@@ -459,7 +459,8 @@
       "minecraft:enderman": "2024-11-28 20:07:27 +0000",
       "minecraft:spider": "2024-11-27 20:14:10 +0000",
       "minecraft:zombie": "2024-11-27 19:30:10 +0000",
-      "minecraft:creeper": "2024-11-28 22:00:53 +0000"
+      "minecraft:creeper": "2024-11-28 22:00:53 +0000",
+      "minecraft:zombie_villager": "2024-11-29 21:40:07 +0000"
     },
     "done": false
   },
@@ -2031,6 +2032,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-11-29 21:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-11-29 21:43:13 +0000"
     },
     "done": true
   },
