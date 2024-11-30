@@ -7,17 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-11-28 23:28:39 +0000",
+      "minecraft:flower_forest": "2024-11-30 19:28:17 +0000",
       "minecraft:snowy_slopes": "2024-11-27 19:57:37 +0000",
       "minecraft:beach": "2024-11-28 23:28:31 +0000",
       "minecraft:forest": "2024-11-27 19:46:58 +0000",
+      "minecraft:river": "2024-11-27 19:52:13 +0000",
+      "minecraft:stony_shore": "2024-11-27 19:54:24 +0000",
+      "minecraft:old_growth_birch_forest": "2024-11-28 23:28:39 +0000",
       "minecraft:ocean": "2024-11-27 20:28:27 +0000",
       "minecraft:cherry_grove": "2024-11-27 19:44:30 +0000",
       "minecraft:sunflower_plains": "2024-11-29 22:21:38 +0000",
-      "minecraft:river": "2024-11-27 19:52:13 +0000",
       "minecraft:grove": "2024-11-27 19:20:35 +0000",
       "minecraft:meadow": "2024-11-27 19:17:49 +0000",
-      "minecraft:stony_shore": "2024-11-27 19:54:24 +0000",
       "minecraft:plains": "2024-11-27 19:18:19 +0000"
     },
     "done": false
@@ -2099,6 +2100,36 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-11-29 22:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-30 19:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-30 19:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-30 19:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-30 19:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-11-30 19:32:23 +0000"
     },
     "done": true
   },
