@@ -2157,6 +2157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-30 22:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-11-30 22:06:42 +0000"
@@ -2193,9 +2199,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-11-30 22:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-11-30 22:04:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-30 22:31:56 +0000"
     },
     "done": true
   },
@@ -2226,6 +2244,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-11-30 22:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-11-30 22:31:43 +0000"
     },
     "done": true
   },
@@ -2295,6 +2319,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-30 22:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-30 22:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-11-30 22:01:15 +0000"
@@ -2322,6 +2358,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-11-30 20:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-11-30 22:31:43 +0000"
     },
     "done": true
   },

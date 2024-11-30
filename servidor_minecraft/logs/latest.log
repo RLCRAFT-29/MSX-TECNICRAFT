@@ -127,3 +127,17 @@
 [22:31:45] [Server thread/INFO]: Scanning for legacy world dragon fight...
 [22:31:45] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
 [22:31:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
+[22:38:01] [Server thread/INFO]: DasVicgeta was slain by Enderman
+[22:38:07] [Server thread/INFO]: Stopping the server
+[22:38:07] [Server thread/INFO]: Stopping server
+[22:38:07] [Server thread/INFO]: Saving players
+[22:38:07] [Server thread/INFO]: DasVicgeta lost connection: Server closed
+[22:38:07] [Server thread/INFO]: DasVicgeta left the game
+[22:38:07] [Server thread/INFO]: Saving worlds
+[22:38:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:38:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:38:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:38:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:38:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
