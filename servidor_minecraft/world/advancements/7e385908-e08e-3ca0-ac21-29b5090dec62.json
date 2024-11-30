@@ -458,6 +458,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-27 20:01:38 +0000",
+      "minecraft:piglin": "2024-11-30 21:54:50 +0000",
       "minecraft:enderman": "2024-11-28 20:07:27 +0000",
       "minecraft:spider": "2024-11-27 20:14:10 +0000",
       "minecraft:zombie": "2024-11-27 19:30:10 +0000",
@@ -1691,7 +1692,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2024-11-28 20:10:33 +0000"
+      "minecraft:crimson_forest": "2024-11-30 21:54:09 +0000",
+      "minecraft:soul_sand_valley": "2024-11-28 20:10:33 +0000",
+      "minecraft:nether_wastes": "2024-11-30 21:57:45 +0000"
     },
     "done": false
   },
