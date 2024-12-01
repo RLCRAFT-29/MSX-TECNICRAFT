@@ -466,7 +466,8 @@
       "minecraft:zombie": "2024-11-27 19:30:10 +0000",
       "minecraft:creeper": "2024-11-28 22:00:53 +0000",
       "minecraft:zombie_villager": "2024-11-29 21:40:07 +0000",
-      "minecraft:ghast": "2024-11-30 22:02:11 +0000"
+      "minecraft:ghast": "2024-11-30 22:02:11 +0000",
+      "minecraft:ender_dragon": "2024-12-01 17:47:21 +0000"
     },
     "done": false
   },
@@ -2370,6 +2371,18 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-30 22:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-01 17:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-12-01 17:47:53 +0000"
     },
     "done": true
   },
