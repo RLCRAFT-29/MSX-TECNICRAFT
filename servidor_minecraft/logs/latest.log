@@ -129,3 +129,21 @@
 [19:58:09] [Server thread/INFO]: DasVicgeta lost connection: Disconnected
 [19:58:09] [Server thread/INFO]: DasVicgeta left the game
 [19:58:09] [Server thread/INFO]: [voicechat] Disconnecting client DasVicgeta
+[20:10:34] [Server thread/INFO]: EzyyZzz was slain by Zombie
+[20:13:04] [Server thread/INFO]: EzyyZzz was slain by Zombie
+[20:13:05] [Server thread/INFO]: Villager class_1646['Farmer'/37, l='ServerLevel[world]', x=231.94, y=72.00, z=251.30] died, message: 'Farmer was slain by Zombie'
+[20:13:07] [Server thread/INFO]: Villager class_1646['Fletcher'/38, l='ServerLevel[world]', x=232.37, y=72.00, z=251.70] died, message: 'Fletcher was slain by Zombie'
+[20:13:46] [Server thread/INFO]: EzyyZzz lost connection: Disconnected
+[20:13:46] [Server thread/INFO]: EzyyZzz left the game
+[20:13:46] [Server thread/INFO]: [voicechat] Disconnecting client EzyyZzz
+[20:13:54] [Server thread/INFO]: Stopping the server
+[20:13:54] [Server thread/INFO]: Stopping server
+[20:13:54] [Server thread/INFO]: Saving players
+[20:13:54] [Server thread/INFO]: Saving worlds
+[20:13:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:13:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:13:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
