@@ -1,5 +1,5 @@
-[17:23:09] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[17:23:10] [main/INFO]: Loading 57 mods:
+[19:23:54] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[19:23:54] [main/INFO]: Loading 57 mods:
 	- architectury 13.0.8
 	- chunky 1.4.16
 	- clumps 18.0.0.2
@@ -70,183 +70,52 @@
 	   \-- polymer-registry-sync-manipulator 0.9.9+1.21
 	- voicechat 1.21.1-2.5.26
 	   \-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
-[17:23:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-TECNICRAFT/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:23:10] [main/INFO]: Compatibility level set to JAVA_16
-[17:23:10] [main/INFO]: Compatibility level set to JAVA_17
-[17:23:10] [main/INFO]: Compatibility level set to JAVA_18
-[17:23:10] [main/INFO]: Compatibility level set to JAVA_21
-[17:23:11] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[17:23:11] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:23:13] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17:23:36] [main/INFO]: Loading Collective version 7.87.
-[17:23:36] [main/INFO]: [voicechat] Compatibility version 18
-[17:23:37] [main/INFO]: [voicechat] Loading plugins
-[17:23:37] [main/INFO]: [voicechat] Loaded 2 plugin(s)
-[17:23:37] [main/INFO]: [voicechat] Initializing plugins
-[17:23:37] [main/INFO]: Initializing Simple Voice Chat integration
-[17:23:37] [main/INFO]: [voicechat] Initialized 2 plugin(s)
-[17:23:37] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
-[17:23:37] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
-[17:23:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:23:45] [main/INFO]: Loaded 1290 recipes
-[17:23:45] [main/INFO]: Loaded 1399 advancements
-[17:23:47] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 14.23 ms
-[17:23:47] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:23:47] [Server thread/INFO]: Loading properties
-[17:23:47] [Server thread/INFO]: Default game type: SURVIVAL
-[17:23:47] [Server thread/INFO]: Generating keypair
-[17:23:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:23:47] [Server thread/INFO]: Using epoll channel type
-[17:23:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:23:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:23:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:23:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:23:47] [Server thread/INFO]: Preparing level "world"
-[17:23:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:24:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:24:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:24:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:24:00] [Worker-Main-1/INFO]: Preparing spawn area: 93%
-[17:24:00] [Server thread/INFO]: Time elapsed: 1660 ms
-[17:24:00] [Server thread/INFO]: Done (13.029s)! For help, type "help"
-[17:24:00] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17:24:01] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.77.213.86:24454
-[17:24:05] [Server thread/INFO]: Made DasVicgeta a server operator
-[17:24:09] [Server thread/INFO]: DasVicgeta[/100.118.141.63:51368] logged in with entity id 6 at (237.5, 72.0, 252.5)
-[17:24:09] [Server thread/INFO]: DasVicgeta joined the game
-[17:24:11] [Server thread/INFO]: [voicechat] Received secret request of DasVicgeta (18)
-[17:24:11] [Server thread/INFO]: [voicechat] Sent secret to DasVicgeta
-[17:24:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7e385908-e08e-3ca0-ac21-29b5090dec62
-[17:24:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7e385908-e08e-3ca0-ac21-29b5090dec62
-[17:24:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DasVicgeta (7e385908-e08e-3ca0-ac21-29b5090dec62) successfully connected to voice chat
-[17:24:21] [Server thread/INFO]: [DasVicgeta: Set own game mode to Creative Mode]
-[17:24:28] [Server thread/INFO]: [DasVicgeta: Set own game mode to Survival Mode]
-[17:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[17:24:49] [Server thread/INFO]: [DasVicgeta: Made DasVicgeta no longer a server operator]
-[17:28:11] [Server thread/INFO]: EzyyZzz[/100.115.185.38:52440] logged in with entity id 1145 at (237.5, 72.0, 254.5)
-[17:28:11] [Server thread/INFO]: EzyyZzz joined the game
-[17:28:17] [Server thread/INFO]: [voicechat] Received secret request of EzyyZzz (18)
-[17:28:17] [Server thread/INFO]: [voicechat] Sent secret to EzyyZzz
-[17:28:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06cb1a0d-c293-384a-8dee-1d5166fdc416
-[17:28:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06cb1a0d-c293-384a-8dee-1d5166fdc416
-[17:28:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player EzyyZzz (06cb1a0d-c293-384a-8dee-1d5166fdc416) successfully connected to voice chat
-[17:28:35] [Server thread/INFO]: <EzyyZzz> xd
-[17:28:38] [Server thread/INFO]: Set EzyyZzz's game mode to Survival Mode
-[17:28:41] [Server thread/INFO]: <EzyyZzz> ala
-[17:28:47] [Server thread/INFO]: <DasVicgeta> unete al grupo
-[17:32:01] [Server thread/INFO]: Villager class_1646['Librarian'/1209, l='ServerLevel[world]', x=604.39, y=69.00, z=-423.35] died, message: 'Librarian was slain by DasVicgeta'
-[17:39:07] [Server thread/INFO]: DasVicgeta fell from a high place
-[17:39:10] [Server thread/INFO]: <EzyyZzz> xd
-[17:39:19] [Server thread/INFO]: Made DasVicgeta a server operator
-[17:39:21] [Server thread/INFO]: [DasVicgeta: Set own game mode to Creative Mode]
-[17:39:27] [Server thread/INFO]: [DasVicgeta: Set own game mode to Spectator Mode]
-[17:39:48] [Server thread/INFO]: [DasVicgeta: Set own game mode to Creative Mode]
-[17:39:50] [Server thread/INFO]: [DasVicgeta: Set own game mode to Spectator Mode]
-[17:39:55] [Server thread/INFO]: [DasVicgeta: Set own game mode to Creative Mode]
-[17:40:13] [Server thread/INFO]: [DasVicgeta: Set own game mode to Survival Mode]
-[17:47:21] [Server thread/INFO]: DasVicgeta has made the advancement [Free the End]
-[17:47:53] [Server thread/INFO]: DasVicgeta has reached the goal [The Next Generation]
-[17:49:05] [Server thread/INFO]: DasVicgeta has made the advancement [Remote Getaway]
-[17:49:30] [Server thread/INFO]: Seed: [-7649949940957896961]
-[17:50:15] [Server thread/INFO]: EzyyZzz tried to swim in lava
-[17:50:46] [Server thread/INFO]: EzyyZzz lost connection: Disconnected
-[17:50:46] [Server thread/INFO]: EzyyZzz left the game
-[17:50:46] [Server thread/INFO]: [voicechat] Disconnecting client EzyyZzz
-[17:54:25] [Server thread/INFO]: EzyyZzz[/100.115.185.38:52792] logged in with entity id 15033 at (232.12739845100018, 72.0, 248.74143392255172)
-[17:54:25] [Server thread/INFO]: EzyyZzz joined the game
-[17:54:27] [Server thread/INFO]: [voicechat] Received secret request of EzyyZzz (18)
-[17:54:27] [Server thread/INFO]: [voicechat] Sent secret to EzyyZzz
-[17:54:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06cb1a0d-c293-384a-8dee-1d5166fdc416
-[17:54:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06cb1a0d-c293-384a-8dee-1d5166fdc416
-[17:54:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player EzyyZzz (06cb1a0d-c293-384a-8dee-1d5166fdc416) successfully connected to voice chat
-[17:58:33] [Server thread/INFO]: DasVicgeta has made the advancement [The City at the End of the Game]
-[18:01:09] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:01:39] [Server thread/INFO]: EzyyZzz has made the advancement [Hidden in the Depths]
-[18:02:00] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:02:09] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:02:13] [Server thread/WARN]: EzyyZzz moved too quickly! -11.538981994364917,-1.092650325641415,-1.058955503771088
-[18:02:14] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:02:15] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:02:16] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:02:41] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:03:58] [Server thread/INFO]: DasVicgeta has reached the goal [Sky's the Limit]
-[18:04:00] [Server thread/INFO]: DasVicgeta has made the advancement [Diamonds!]
-[18:04:47] [Server thread/INFO]: EzyyZzz has made the advancement [Isn't It Iron Pick]
-[18:05:04] [Server thread/INFO]: DasVicgeta has completed the challenge [Great View From Up Here]
-[18:05:52] [Server thread/INFO]: DasVicgeta fell from a high place
-[18:05:58] [Server thread/INFO]: [DasVicgeta: Set own game mode to Spectator Mode]
-[18:06:22] [Server thread/WARN]: DasVicgeta moved too quickly! -11.477168001502264,0.0,21.67692541662973
-[18:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
-[18:06:23] [Server thread/WARN]: DasVicgeta moved too quickly! -3.843769231623071,0.0,16.748634452472857
-[18:06:24] [Server thread/WARN]: DasVicgeta moved too quickly! -2.63772126099866,0.0,11.493465534955817
-[18:06:30] [Server thread/WARN]: DasVicgeta moved too quickly! -5.737997351098159,0.0,25.0024427408772
-[18:06:35] [Server thread/WARN]: DasVicgeta moved too quickly! -5.569328163474893,0.0,24.267492644587378
-[18:06:38] [Server thread/WARN]: DasVicgeta moved too quickly! -5.542007485307494,0.0,24.148446982882433
-[18:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:06:43] [Server thread/WARN]: DasVicgeta moved too quickly! -8.50752654807394,0.0,24.297366128092335
-[18:06:44] [Server thread/WARN]: DasVicgeta moved too quickly! -10.031614237811908,-0.042980972040055576,15.80809872750342
-[18:06:47] [Server thread/WARN]: DasVicgeta moved too quickly! -13.037494334894447,0.0,20.54484878699168
-[18:06:53] [Server thread/INFO]: [DasVicgeta: Set own game mode to Creative Mode]
-[18:07:09] [Server thread/INFO]: [DasVicgeta: Teleported DasVicgeta to -1035.500000, 61.500000, -107.500000]
-[18:07:22] [Server thread/INFO]: EzyyZzz has made the advancement [Minecraft: Trial(s) Edition]
-[18:07:54] [Server thread/INFO]: [DasVicgeta: Teleported DasVicgeta to -903.500000, 60.500000, -1543.500000]
-[18:08:03] [Server thread/INFO]: [DasVicgeta: Set own game mode to Survival Mode]
-[18:10:16] [Server thread/INFO]: EzyyZzz has made the advancement [Under Lock and Key]
-[18:17:33] [Server thread/INFO]: EzyyZzz has reached the goal [Revaulting]
-[18:17:39] [Server thread/INFO]: EzyyZzz has made the advancement [Diamonds!]
-[18:20:47] [Server thread/INFO]: <DasVicgeta> zzzzzzz
-[18:24:21] [Server thread/INFO]: DasVicgeta has made the advancement [Minecraft: Trial(s) Edition]
-[18:24:47] [Server thread/INFO]: DasVicgeta has made the advancement [Wax Off]
-[18:25:01] [Server thread/INFO]: DasVicgeta has made the advancement [Lighten Up]
-[18:28:23] [Server thread/INFO]: DasVicgeta has made the advancement [Under Lock and Key]
-[18:39:46] [Server thread/INFO]: EzyyZzz has reached the goal [Sky's the Limit]
-[18:43:20] [Server thread/INFO]: <DasVicgeta> 573 -469
-[18:46:29] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:46:30] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:46:30] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:46:31] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:46:32] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:46:32] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:47:19] [Server thread/INFO]: DasVicgeta lost connection: Disconnected
-[18:47:19] [Server thread/INFO]: DasVicgeta left the game
-[18:47:19] [Server thread/INFO]: [voicechat] Disconnecting client DasVicgeta
-[18:50:50] [Server thread/INFO]: Villager class_1646['Cleric'/36223, l='ServerLevel[world]', x=228.50, y=71.56, z=245.50] was struck by lightning class_1538['Lightning Bolt'/37362, l='ServerLevel[world]', x=231.50, y=72.00, z=243.50].
-[18:59:48] [Server thread/WARN]: EzyyZzz moved too quickly! -8.463990192768449,1.0949573804284611,-7.562633059007851
-[18:59:51] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:59:52] [Server thread/WARN]: EzyyZzz moved wrongly!
-[18:59:59] [Server thread/WARN]: EzyyZzz moved wrongly!
-[19:00:31] [Server thread/WARN]: EzyyZzz moved wrongly!
-[19:00:39] [Server thread/WARN]: EzyyZzz moved wrongly!
-[19:00:42] [Server thread/WARN]: EzyyZzz moved wrongly!
-[19:01:00] [Server thread/INFO]: EzyyZzz was slain by Zombie
-[19:01:37] [Server thread/WARN]: EzyyZzz moved wrongly!
-[19:01:37] [Server thread/WARN]: EzyyZzz moved wrongly!
-[19:02:33] [Server thread/INFO]: DasVicgeta[/100.118.141.63:52535] logged in with entity id 40206 at (549.6999999880791, 60.0, -433.69999998807907)
-[19:02:33] [Server thread/INFO]: DasVicgeta joined the game
-[19:02:34] [Server thread/INFO]: [voicechat] Received secret request of DasVicgeta (18)
-[19:02:34] [Server thread/INFO]: [voicechat] Sent secret to DasVicgeta
-[19:02:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7e385908-e08e-3ca0-ac21-29b5090dec62
-[19:02:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7e385908-e08e-3ca0-ac21-29b5090dec62
-[19:02:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DasVicgeta (7e385908-e08e-3ca0-ac21-29b5090dec62) successfully connected to voice chat
-[19:03:44] [Server thread/WARN]: EzyyZzz moved wrongly!
-[19:12:56] [Server thread/WARN]: EzyyZzz moved wrongly!
-[19:15:45] [Server thread/INFO]: DasVicgeta lost connection: Disconnected
-[19:15:45] [Server thread/INFO]: DasVicgeta left the game
-[19:15:45] [Server thread/INFO]: [voicechat] Disconnecting client DasVicgeta
-[19:15:48] [Server thread/WARN]: EzyyZzz moved wrongly!
-[19:15:58] [Server thread/INFO]: EzyyZzz lost connection: Uso de Hacks
-[19:15:58] [Server thread/INFO]: EzyyZzz left the game
-[19:15:58] [Server thread/INFO]: [voicechat] Disconnecting client EzyyZzz
-[19:15:58] [Server thread/INFO]: Kicked EzyyZzz: Uso de Hacks
-[19:15:58] [Server thread/WARN]: handleDisconnection() called twice
-[19:16:00] [Server thread/INFO]: Stopping the server
-[19:16:00] [Server thread/INFO]: Stopping server
-[19:16:00] [Server thread/INFO]: Saving players
-[19:16:00] [Server thread/INFO]: Saving worlds
-[19:16:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:16:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:16:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:16:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:16:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:16:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:16:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:23:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-TECNICRAFT/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:23:54] [main/INFO]: Compatibility level set to JAVA_16
+[19:23:54] [main/INFO]: Compatibility level set to JAVA_17
+[19:23:54] [main/INFO]: Compatibility level set to JAVA_18
+[19:23:54] [main/INFO]: Compatibility level set to JAVA_21
+[19:23:55] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[19:23:55] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:23:56] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:24:10] [main/INFO]: Loading Collective version 7.87.
+[19:24:10] [main/INFO]: [voicechat] Compatibility version 18
+[19:24:10] [main/INFO]: [voicechat] Loading plugins
+[19:24:10] [main/INFO]: [voicechat] Loaded 2 plugin(s)
+[19:24:10] [main/INFO]: [voicechat] Initializing plugins
+[19:24:10] [main/INFO]: Initializing Simple Voice Chat integration
+[19:24:10] [main/INFO]: [voicechat] Initialized 2 plugin(s)
+[19:24:10] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[19:24:10] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
+[19:24:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:24:14] [main/INFO]: Loaded 1290 recipes
+[19:24:14] [main/INFO]: Loaded 1399 advancements
+[19:24:15] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.464 ms
+[19:24:15] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:24:15] [Server thread/INFO]: Loading properties
+[19:24:15] [Server thread/INFO]: Default game type: SURVIVAL
+[19:24:15] [Server thread/INFO]: Generating keypair
+[19:24:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:24:15] [Server thread/INFO]: Using epoll channel type
+[19:24:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:24:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:24:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:24:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:24:15] [Server thread/INFO]: Preparing level "world"
+[19:24:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:24:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:24:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:24:25] [Server thread/INFO]: Time elapsed: 944 ms
+[19:24:25] [Server thread/INFO]: Done (9.787s)! For help, type "help"
+[19:24:25] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[19:24:25] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.77.213.86:24454
+[19:24:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:24:25] [Server thread/INFO]: <--[HERE]
+[19:25:01] [Server thread/INFO]: EzyyZzz[/100.115.185.38:53732] logged in with entity id 6 at (238.64667506175945, 72.0, 253.1070479202575)
+[19:25:01] [Server thread/INFO]: EzyyZzz joined the game
+[19:25:03] [Server thread/INFO]: [voicechat] Received secret request of EzyyZzz (18)
+[19:25:03] [Server thread/INFO]: [voicechat] Sent secret to EzyyZzz
+[19:25:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[19:25:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06cb1a0d-c293-384a-8dee-1d5166fdc416
+[19:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06cb1a0d-c293-384a-8dee-1d5166fdc416
+[19:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player EzyyZzz (06cb1a0d-c293-384a-8dee-1d5166fdc416) successfully connected to voice chat
