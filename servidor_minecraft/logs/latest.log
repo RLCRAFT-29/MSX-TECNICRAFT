@@ -229,3 +229,24 @@
 [19:02:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7e385908-e08e-3ca0-ac21-29b5090dec62
 [19:02:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DasVicgeta (7e385908-e08e-3ca0-ac21-29b5090dec62) successfully connected to voice chat
 [19:03:44] [Server thread/WARN]: EzyyZzz moved wrongly!
+[19:12:56] [Server thread/WARN]: EzyyZzz moved wrongly!
+[19:15:45] [Server thread/INFO]: DasVicgeta lost connection: Disconnected
+[19:15:45] [Server thread/INFO]: DasVicgeta left the game
+[19:15:45] [Server thread/INFO]: [voicechat] Disconnecting client DasVicgeta
+[19:15:48] [Server thread/WARN]: EzyyZzz moved wrongly!
+[19:15:58] [Server thread/INFO]: EzyyZzz lost connection: Uso de Hacks
+[19:15:58] [Server thread/INFO]: EzyyZzz left the game
+[19:15:58] [Server thread/INFO]: [voicechat] Disconnecting client EzyyZzz
+[19:15:58] [Server thread/INFO]: Kicked EzyyZzz: Uso de Hacks
+[19:15:58] [Server thread/WARN]: handleDisconnection() called twice
+[19:16:00] [Server thread/INFO]: Stopping the server
+[19:16:00] [Server thread/INFO]: Stopping server
+[19:16:00] [Server thread/INFO]: Saving players
+[19:16:00] [Server thread/INFO]: Saving worlds
+[19:16:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:16:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:16:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:16:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:16:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:16:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:16:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
