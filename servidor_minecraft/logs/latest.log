@@ -137,3 +137,24 @@
 [21:47:50] [Server thread/WARN]: DasVicgeta moved too quickly! -13.35056633884858,-1.9532802817806214,-11.830204788938943
 [22:00:43] [Server thread/INFO]: DasVicgeta has made the advancement [Local Brewery]
 [22:05:21] [Server thread/INFO]: DasVicgeta has reached the goal [Zombie Doctor]
+[22:14:19] [Server thread/INFO]: EzyyZzz[/100.115.185.38:55542] logged in with entity id 14970 at (239.18868618758782, 72.0, 255.76248148146757)
+[22:14:19] [Server thread/INFO]: EzyyZzz joined the game
+[22:14:23] [Server thread/INFO]: [voicechat] Received secret request of EzyyZzz (18)
+[22:14:23] [Server thread/INFO]: [voicechat] Sent secret to EzyyZzz
+[22:14:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06cb1a0d-c293-384a-8dee-1d5166fdc416
+[22:14:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06cb1a0d-c293-384a-8dee-1d5166fdc416
+[22:14:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player EzyyZzz (06cb1a0d-c293-384a-8dee-1d5166fdc416) successfully connected to voice chat
+[22:15:42] [Server thread/INFO]: <DasVicgeta> zzzzzzzzzzz
+[22:21:58] [Server thread/INFO]: EzyyZzz lost connection: Kicked by an operator
+[22:21:58] [Server thread/INFO]: EzyyZzz left the game
+[22:21:58] [Server thread/INFO]: [voicechat] Disconnecting client EzyyZzz
+[22:21:58] [Server thread/INFO]: Kicked EzyyZzz: Kicked by an operator
+[22:21:58] [Server thread/WARN]: handleDisconnection() called twice
+[22:22:00] [Server thread/INFO]: EzyyZzz[/100.115.185.38:55615] logged in with entity id 18296 at (172.65274640350782, 62.731898203994746, 197.93385302984092)
+[22:22:00] [Server thread/INFO]: EzyyZzz joined the game
+[22:22:01] [Server thread/INFO]: [voicechat] Received secret request of EzyyZzz (18)
+[22:22:01] [Server thread/INFO]: [voicechat] Sent secret to EzyyZzz
+[22:22:01] [Server thread/INFO]: Nothing changed. The player already is an operator
+[22:22:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06cb1a0d-c293-384a-8dee-1d5166fdc416
+[22:22:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06cb1a0d-c293-384a-8dee-1d5166fdc416
+[22:22:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player EzyyZzz (06cb1a0d-c293-384a-8dee-1d5166fdc416) successfully connected to voice chat
