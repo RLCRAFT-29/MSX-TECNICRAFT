@@ -201,3 +201,13 @@
 [18:28:23] [Server thread/INFO]: DasVicgeta has made the advancement [Under Lock and Key]
 [18:39:46] [Server thread/INFO]: EzyyZzz has reached the goal [Sky's the Limit]
 [18:43:20] [Server thread/INFO]: <DasVicgeta> 573 -469
+[18:46:29] [Server thread/WARN]: EzyyZzz moved wrongly!
+[18:46:30] [Server thread/WARN]: EzyyZzz moved wrongly!
+[18:46:30] [Server thread/WARN]: EzyyZzz moved wrongly!
+[18:46:31] [Server thread/WARN]: EzyyZzz moved wrongly!
+[18:46:32] [Server thread/WARN]: EzyyZzz moved wrongly!
+[18:46:32] [Server thread/WARN]: EzyyZzz moved wrongly!
+[18:47:19] [Server thread/INFO]: DasVicgeta lost connection: Disconnected
+[18:47:19] [Server thread/INFO]: DasVicgeta left the game
+[18:47:19] [Server thread/INFO]: [voicechat] Disconnecting client DasVicgeta
+[18:50:50] [Server thread/INFO]: Villager class_1646['Cleric'/36223, l='ServerLevel[world]', x=228.50, y=71.56, z=245.50] was struck by lightning class_1538['Lightning Bolt'/37362, l='ServerLevel[world]', x=231.50, y=72.00, z=243.50].
