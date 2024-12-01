@@ -14,6 +14,7 @@
       "minecraft:forest": "2024-11-27 19:46:58 +0000",
       "minecraft:river": "2024-11-27 19:52:13 +0000",
       "minecraft:stony_shore": "2024-11-27 19:54:24 +0000",
+      "minecraft:frozen_peaks": "2024-12-01 21:50:00 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-28 23:28:39 +0000",
       "minecraft:ocean": "2024-11-27 20:28:27 +0000",
       "minecraft:cherry_grove": "2024-11-27 19:44:30 +0000",
@@ -3097,6 +3098,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 21:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-01 21:49:13 +0000"
     },
     "done": true
   },
