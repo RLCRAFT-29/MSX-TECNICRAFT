@@ -31,6 +31,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-28 22:44:41 +0000",
+      "minecraft:bogged": "2024-12-01 18:16:30 +0000",
+      "minecraft:ghast": "2024-12-01 18:00:42 +0000",
       "minecraft:piglin": "2024-11-29 22:30:29 +0000",
       "minecraft:breeze": "2024-12-01 18:08:44 +0000",
       "minecraft:enderman": "2024-11-28 23:29:12 +0000",
@@ -40,8 +42,8 @@
       "minecraft:piglin_brute": "2024-11-29 22:34:12 +0000",
       "minecraft:zombie": "2024-11-28 22:00:56 +0000",
       "minecraft:creeper": "2024-11-28 23:40:57 +0000",
-      "minecraft:bogged": "2024-12-01 18:16:30 +0000",
-      "minecraft:ghast": "2024-12-01 18:00:42 +0000"
+      "minecraft:drowned": "2024-12-01 22:28:17 +0000",
+      "minecraft:zombie_villager": "2024-12-01 22:28:28 +0000"
     },
     "done": false
   },
@@ -2473,6 +2475,24 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-01 22:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-01 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-01 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-01 22:29:53 +0000"
     },
     "done": true
   },

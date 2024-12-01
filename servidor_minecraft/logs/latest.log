@@ -158,3 +158,19 @@
 [22:22:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06cb1a0d-c293-384a-8dee-1d5166fdc416
 [22:22:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06cb1a0d-c293-384a-8dee-1d5166fdc416
 [22:22:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player EzyyZzz (06cb1a0d-c293-384a-8dee-1d5166fdc416) successfully connected to voice chat
+[22:26:25] [Server thread/INFO]: EzyyZzz fell from a high place
+[22:27:33] [Server thread/INFO]: EzyyZzz was doomed to fall by DasVicgeta
+[22:27:34] [Server thread/INFO]: [DasVicgeta: Kicked EzyyZzz: Hacker]
+[22:27:34] [Server thread/INFO]: EzyyZzz lost connection: Hacker
+[22:27:34] [Server thread/INFO]: EzyyZzz left the game
+[22:27:34] [Server thread/INFO]: [voicechat] Disconnecting client EzyyZzz
+[22:27:36] [Server thread/INFO]: EzyyZzz[/100.115.185.38:55661] logged in with entity id 20211 at (251.4499025749562, 72.0, 255.8187386552455)
+[22:27:36] [Server thread/INFO]: EzyyZzz joined the game
+[22:27:37] [Server thread/INFO]: [voicechat] Received secret request of EzyyZzz (18)
+[22:27:37] [Server thread/INFO]: [voicechat] Sent secret to EzyyZzz
+[22:27:38] [Server thread/INFO]: Villager class_1646['Farmer'/14995, l='ServerLevel[world]', x=229.20, y=71.56, z=255.70] died, message: 'Farmer was slain by Zombie'
+[22:27:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06cb1a0d-c293-384a-8dee-1d5166fdc416
+[22:27:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06cb1a0d-c293-384a-8dee-1d5166fdc416
+[22:27:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player EzyyZzz (06cb1a0d-c293-384a-8dee-1d5166fdc416) successfully connected to voice chat
+[22:27:47] [Server thread/INFO]: Villager class_1646['Fletcher'/14996, l='ServerLevel[world]', x=229.19, y=71.56, z=253.30] died, message: 'Fletcher was slain by Zombie'
+[22:27:48] [Server thread/INFO]: Villager class_1646['Villager'/14973, l='ServerLevel[world]', x=133.61, y=62.71, z=195.50] died, message: 'Villager was slain by Drowned'
