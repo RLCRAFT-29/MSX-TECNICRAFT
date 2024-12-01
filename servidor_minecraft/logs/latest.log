@@ -119,3 +119,13 @@
 [19:25:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06cb1a0d-c293-384a-8dee-1d5166fdc416
 [19:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06cb1a0d-c293-384a-8dee-1d5166fdc416
 [19:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player EzyyZzz (06cb1a0d-c293-384a-8dee-1d5166fdc416) successfully connected to voice chat
+[19:57:10] [Server thread/INFO]: DasVicgeta[/100.118.141.63:61934] logged in with entity id 6745 at (239.73568722090826, 72.0, 247.50654873573043)
+[19:57:10] [Server thread/INFO]: DasVicgeta joined the game
+[19:57:10] [Server thread/INFO]: [voicechat] Received secret request of DasVicgeta (18)
+[19:57:10] [Server thread/INFO]: [voicechat] Sent secret to DasVicgeta
+[19:57:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7e385908-e08e-3ca0-ac21-29b5090dec62
+[19:57:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7e385908-e08e-3ca0-ac21-29b5090dec62
+[19:57:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DasVicgeta (7e385908-e08e-3ca0-ac21-29b5090dec62) successfully connected to voice chat
+[19:58:09] [Server thread/INFO]: DasVicgeta lost connection: Disconnected
+[19:58:09] [Server thread/INFO]: DasVicgeta left the game
+[19:58:09] [Server thread/INFO]: [voicechat] Disconnecting client DasVicgeta
